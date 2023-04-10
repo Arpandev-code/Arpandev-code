@@ -1,11 +1,11 @@
-- 👋 Hi, I’m Arpandev, Developer & founder of ABEducation 
+- 👋 Hi, I’m Arpandev
 - 👀 I’m interested in Programming , Networking & cyber Security( Ethical Hacking) 
-- 🌱 I’m currently learning Data structure & Algorithm
+- 🌱 I’m currently learning Data structure & Algorithm & Flutter development
 - 📫 How to reach me :
 
    Insta : https://instagram.com/arpandev.abe
 
-   E-mail- abeducationapk@gmail.com / helpdesk_abeducation@outlook.com
+   E-mail- arpan.dev2016@gmail.com
 
 Download My Apps:
 1. ABEducation Official :
